@@ -114,7 +114,8 @@ VEHICLE-OVER-WEIGHT-DETECTION-SYSTEM/
 ## Project Output
 
 ### Normal Weight
-![Normal Weight Output](output-normal.jpg)
+![Uploading WhatsApp Image 2026-08-15 at 2.15.52 PM.jpeg…]()
+
 
 ### Medium Weight
 ![Medium Weight Output](output-medium.jpg)
