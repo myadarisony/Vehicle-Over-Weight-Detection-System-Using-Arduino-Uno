@@ -1,1 +1,0 @@
-# Vehicle-Over-Weight-Detection-System-Using-Arduino-Uno
