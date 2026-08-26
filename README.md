@@ -207,7 +207,7 @@ VEHICLE-OVER-WEIGHT-DETECTION-SYSTEM/
   <img src="./images/normal-weight.png" alt="Normal Weight Output" width="700">
 </p>
 
-<img width="1048" height="951" alt="image" src="https://github.com/user-attachments/assets/c2a35825-12c6-4448-81c3-164bc3468d0c" />
+<img width="1059" height="857" alt="image" src="https://github.com/user-attachments/assets/64b526d3-3abf-4a26-969e-681e1352dc62" />
 
 
 The system displays the measured weight and indicates the normal condition using the **Green LED**.
@@ -217,6 +217,8 @@ The system displays the measured weight and indicates the normal condition using
 <p align="center">
   <img src="./images/medium-weight.png" alt="Medium Weight Output" width="700">
 </p>
+<img width="1042" height="851" alt="image" src="https://github.com/user-attachments/assets/532d6949-b38d-4454-802e-7bbf9ed826e3" />
+
 
 When the measured weight falls within the medium range, the **Yellow LED** is activated.
 
@@ -225,6 +227,7 @@ When the measured weight falls within the medium range, the **Yellow LED** is ac
 <p align="center">
   <img src="./images/high-overweight.png" alt="High/Overweight Output" width="700">
 </p>
+<img width="1048" height="951" alt="image" src="https://github.com/user-attachments/assets/ba488b30-0556-4f91-a80f-68bd784e0fa6" />
 
 When the measured weight reaches the high/overweight threshold, the **Red LED** and **Buzzer** are activated to provide an immediate warning.
 
