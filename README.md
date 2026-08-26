@@ -207,6 +207,7 @@ VEHICLE-OVER-WEIGHT-DETECTION-SYSTEM/
   <img src="./images/normal-weight.png" alt="Normal Weight Output" width="700">
 </p>
 
+<img width="1048" height="951" alt="image" src="https://github.com/user-attachments/assets/c2a35825-12c6-4448-81c3-164bc3468d0c" />
 
 
 The system displays the measured weight and indicates the normal condition using the **Green LED**.
